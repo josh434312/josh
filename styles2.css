@@ -87,7 +87,7 @@ span{
 }
 
 .home-content{
-    max-width: 800px;
+    max-width: 100%;
 }
 
 .home-content h1{
@@ -177,7 +177,7 @@ span{
 .contact-form h2{
 	text-align: center;
 	margin-top: 3em;
-	margin-bottom: 1em;
+	margin-bottom: 1.2em;
 	font-size: 36px;
 }
 
